@@ -1,0 +1,21 @@
+KiwiSAT CW Telemetry Results:
+Battery Voltage = 13.57 Mode = 1000101100100100 Last Message Number = 77 ROMID = 15
+Battery Voltage = 13.57 Mode = 1000101100100100 Last Message Number = 77 ROMID = 15
+Battery Voltage = 13.57 Mode = 1000101100100100 Last Message Number = 77 ROMID = 15
+Battery Voltage = 13.57 Mode = 1000101100100100 Last Message Number = 77 ROMID = 15
+Battery Voltage = 13.57 Mode = 1000101100100100 Last Message Number = 77 ROMID = 15
+Battery Voltage = 13.57 Mode = 1000101100100100 Last Message Number = 77 ROMID = 15
+Battery Voltage = 13.57 Mode = 1000101100100100 Last Message Number = 77 ROMID = 15
+Battery Voltage = 13.57 Mode = 1000101100100100 Last Message Number = 77 ROMID = 15
+Battery Voltage = 13.57 Mode = 1000101100100100 Last Message Number = 77 ROMID = 15
+Battery Voltage = 13.57 Mode = 1000101100100100 Last Message Number = 77 ROMID = 15
+Battery Voltage = 13.57 Mode = 1000101100100100 Last Message Number = 77 ROMID = 15
+Battery Voltage = 13.57 Mode = 1000101100100100 Last Message Number = 77 ROMID = 15
+Battery Voltage = 13.57 Mode = 1000101100100100 Last Message Number = 77 ROMID = 15
+Battery Voltage = 13.57 Mode = 1000101100100100 Last Message Number = 77 ROMID = 15
+Battery Voltage = 13.57 Mode = 1000101100100100 Last Message Number = 77 ROMID = 15
+Battery Voltage = 13.57 Mode = 1000101100100100 Last Message Number = 77 ROMID = 15
+Battery Voltage = 13.57 Mode = 1000101100100100 Last Message Number = 77 ROMID = 15
+Battery Voltage = 13.57 Mode = 1000101100100100 Last Message Number = 77 ROMID = 15
+Battery Voltage = 13.57 Mode = 1000101100100100 Last Message Number = 77 ROMID = 15
+Battery Voltage = 13.57 Mode = 1000101100100100 Last Message Number = 77 ROMID = 15
